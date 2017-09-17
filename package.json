@@ -4,7 +4,7 @@
   "dependencies": {
     "browser-request": "^0.3.3",
     "octo-linker-core": "octo-linker/core",
-    "jquery": "^2.1.1"
+    "jquery": "^3.0.0"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
