@@ -13,6 +13,7 @@ This Google Chrome extension allows you to navigate across files and packages on
 # Preview
 
 ![d](screencast.gif)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fchrome-extension.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fchrome-extension?ref=badge_shield)
 
 For the latest updates follow [@octo_linker](https://twitter.com/octo_linker) on twitter.
 
@@ -41,3 +42,6 @@ COPYRIGHT (C) 2014-present STEFAN BUCK. LICENSED UNDER THE MIT LICENSE.
 [daviddm-url]: https://david-dm.org/octo-linker/chrome-extension.svg?theme=shields.io
 [daviddm-image]: https://david-dm.org/octo-linker/chrome-extension
 [install-image]: install.png
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fchrome-extension.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fchrome-extension?ref=badge_large)
